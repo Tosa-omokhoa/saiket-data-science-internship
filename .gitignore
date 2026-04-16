@@ -1,0 +1,39 @@
+# ── Python ────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# ── Jupyter ───────────────────────────────────────────
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# ── Data (large raw files — use Git LFS or exclude) ───
+# Uncomment the line below if the dataset is too large for GitHub (>50 MB)
+# data/telco_churn.csv
+
+# ── Build / temp artefacts ────────────────────────────
+task4_stage1.pkl
+task4_stage2.pkl
+generate_*.py
+build_*.py
+run_*.py
+Task4_partial.ipynb
+
+# ── OS ────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── IDE ───────────────────────────────────────────────
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
