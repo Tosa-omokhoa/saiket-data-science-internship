@@ -252,7 +252,7 @@ It covers every step in plain English, with code blocks, interpretation tables, 
 Mechanical Engineering Graduate | Data Science & Analytics  
 University of Nigeria, Nsukka  
 
-- GitHub: [@Tosa9](https://github.com/Tosa9)  
+- GitHub: [@Tosa-omokhoa](https://github.com/Tosa-omokhoa)  
 - LinkedIn: [Omokhoa Oshose Tosayoname](https://www.linkedin.com/in/omokhoa-tosayoname)  
 - Twitter/X: [@Tosa_omokhoa](https://twitter.com/Tosa_omokhoa)  
 
